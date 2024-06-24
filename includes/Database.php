@@ -3,9 +3,9 @@
 class Database {
 private static $instance = null;
 private $conn;
-private $host = 'localhost';
-private $user = 'root';
-private $pass = '';
+private $host = 'szuflandia.pjwstk.edu.pl';
+private $user = 's30375';
+private $pass = 'Olg.Karp';
 private $name = 'blog';
 
 private function __construct() {
